@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ol1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69130191"
+     inkscape:cx="397.07687"
+     inkscape:cy="574.27876"
+     inkscape:window-width="1920"
+     inkscape:window-height="953"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient29254">
+      <stop
+         style="stop-color:#2c9200;stop-opacity:1"
+         offset="0"
+         id="stop29250" />
+      <stop
+         style="stop-color:#652fd3;stop-opacity:1"
+         offset="1"
+         id="stop29252" />
+    </linearGradient>
+    <rect
+       x="211.1883"
+       y="451.33705"
+       width="421.75759"
+       height="85.877764"
+       id="rect25082" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12416">
+      <stop
+         style="stop-color:#667c48;stop-opacity:1"
+         offset="0"
+         id="stop12412" />
+      <stop
+         style="stop-color:#9850a6;stop-opacity:1"
+         offset="1"
+         id="stop12414" />
+    </linearGradient>
+    <rect
+       x="162.87742"
+       y="355.31629"
+       width="509.14613"
+       height="336.89623"
+       id="rect9702" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2832">
+      <stop
+         style="stop-color:#958a63;stop-opacity:1;"
+         offset="0"
+         id="stop2828" />
+      <stop
+         style="stop-color:#958a2d;stop-opacity:1"
+         offset="1"
+         id="stop2830" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2832"
+       id="linearGradient2834"
+       x1="6.3749495"
+       y1="123.89133"
+       x2="204.10177"
+       y2="123.89133"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.81595954,0,0,1.1556756,24.100052,-6.976321)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12416"
+       id="linearGradient12418"
+       x1="164.24414"
+       y1="380.96562"
+       x2="340.04492"
+       y2="380.96562"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29254"
+       id="linearGradient29256"
+       x1="211.63672"
+       y1="480.87383"
+       x2="609.72266"
+       y2="480.87383"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient2834);fill-opacity:1;stroke-width:0.25693"
+       id="rect868"
+       width="161.33708"
+       height="168.44643"
+       x="29.301746"
+       y="51.978672"
+       ry="84.223213"
+       inkscape:export-filename="/home/joy/Documents/logos/ol1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.2157509,0,0,1.4471028,-135.5045,-457.46844)"
+       id="text9700"
+       style="font-size:40px;line-height:1.25;font-family:'Cascadia Next TC';-inkscape-font-specification:'Cascadia Next TC';white-space:pre;shape-inside:url(#rect9702);fill:url(#linearGradient12418);fill-opacity:1"
+       inkscape:export-filename="/home/joy/Documents/logos/ol1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="162.87695"
+         y="395.51641"
+         id="tspan31329">Oxum 
+</tspan><tspan
+         x="162.87695"
+         y="445.51641"
+         id="tspan31331">Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.344675,0,0,0.3904511,-25.946176,-54.829246)"
+       id="text25080"
+       style="font-size:40px;line-height:1.25;font-family:'Cascadia Next TC';-inkscape-font-specification:'Cascadia Next TC';white-space:pre;shape-inside:url(#rect25082);fill:url(#linearGradient29256);fill-opacity:1"
+       inkscape:export-filename="/home/joy/Documents/logos/ol1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="211.1875"
+         y="491.53789"
+         id="tspan31333">We admire Simplicity</tspan></text>
+  </g>
+</svg>
